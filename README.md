@@ -1,33 +1,61 @@
-# 👋 Hi, I'm Celyn Lisha Bueno
+<h1 align="center">🌸 Hi, I'm Celyn</h1>
+<p align="center">
+  <em>3rd Year BSIT Student • DCCP Bangued</em>
+</p>
 
-Welcome to my GitHub profile!  
-I enjoy building projects, learning new technologies, and sharing my work.
-
----
-## About Me
-- Information Technology Student
-- Learning how to build websites and systems
-- Interested in basic UI/Ux design
----
-### 🔧 Skills
-- C++
-- C#
-- Phyton
-- Java
----
-
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lishabueno8&show_icons=true)
+<p align="center">
+  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="280">
+</p>
 
 ---
 
-## 🌐 **Connect with Me**
-<div align="center">
-<a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100084993821745/" target="_blank">
-  <img src="https://i.pinimg.com/736x/04/7d/60/047d603f517f98cd681da68bbd87ee85.jpg" height="50" style="border-radius:50%">
-</a>
-
-
-</div>
+## 🌷 About Me
+> 🎓  BSIT – 3rd Year Student <br>
+> 🏫  DCCP -Bangued<br> 
+> 💻 Learning **Web & System Development**  <br>
+> 🌱 Always improving through school projects  
 
 ---
+
+## 🧰 Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,java,html,css&theme=light" />
+</p>
+
+---
+
+## 🗂️ Academic Projects
+> 📌 Student Management System  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lishabueno8&show_icons=true&hide_border=true&bg_color=FFF1F7&title_color=DB7093&icon_color=DB7093&text_color=4B4453" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lishabueno8&layout=compact&hide_border=true&bg_color=FFF1F7&title_color=DB7093&text_color=4B4453" />
+</p>
+
+---
+
+## 🎯 Career Goals
+| 🌸 Goal |
+|-------|
+| Become a Web / Software Developer |
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.facebook.com/profile.php?id=100084993821745">
+    <img src="https://img.icons8.com/color/40/facebook-new.png"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>✨ Soft skills, steady growth ✨</em>
+</p>
